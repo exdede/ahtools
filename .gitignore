@@ -1,0 +1,11 @@
+build/
+.gradle/
+run/
+# runtime folders a dev client leaves behind, anchored so source packages
+# named config are never caught
+/config/
+/logs/
+/mods/
+/versions/*/config/
+/versions/*/logs/
+/versions/*/mods/
