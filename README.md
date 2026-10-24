@@ -2,11 +2,6 @@
 
 Auction house tools for DonutSMP, as a client-side Fabric mod.
 
-> **Warning.** The AH Seller and the command spammer send commands to the
-> server for you. Automation can break DonutSMP's rules, and it can get your
-> account muted or banned. You use them at your own risk. The mod shows this
-> warning in game and refuses to start either feature until you accept it.
-> The sales tracker and the profit HUD only read chat.
 
 ## Features
 
