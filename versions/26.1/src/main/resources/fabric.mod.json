@@ -3,7 +3,7 @@
   "id": "ahtools",
   "version": "${version}",
   "name": "AHTools",
-  "description": "Auction house tools for DonutSMP: hotbar seller, sales tracker, profit HUD, command spammer. Automation can get you banned, use at your own risk.",
+  "description": "Auction house tools for DonutSMP: hotbar seller, sales tracker, profit HUD, command spammer.",
   "authors": [
     "exdede"
   ],

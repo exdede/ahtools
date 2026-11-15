@@ -19,9 +19,9 @@ import java.util.function.BooleanSupplier;
  * both toggles off, deliberately: a mod that resumes selling on its own the
  * moment you rejoin is a mod that sells while you are not looking.
  *
- * Starting either feature needs the ban risk warning accepted. The refusal
+ * Starting either feature needs the start notice accepted. The refusal
  * lives here rather than only in the GUI, so a key binding cannot skip the
- * warning. Stopping always works.
+ * notice. Stopping always works.
  */
 public final class AutomationRunner {
     private final ChatSendGate gate;

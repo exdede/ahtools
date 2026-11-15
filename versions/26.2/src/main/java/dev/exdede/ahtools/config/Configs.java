@@ -61,7 +61,7 @@ public final class Configs {
 
         public static final IntSetting RISK_ACCEPTED_VERSION = new IntSetting(
             "riskAcceptedVersion", 0, 0, 1000,
-            "Which version of the ban risk warning the player accepted. 0 means never");
+            "Which version of the start notice the player accepted. 0 means never");
 
         public static final List<Setting<?>> ALL = List.of(
             DEBUG_LOGGING, SPAM_COMMANDS, SPAMMER_RANDOM_DELAY,
